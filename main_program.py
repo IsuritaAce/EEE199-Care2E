@@ -11,6 +11,7 @@ from datetime import date
 
 # Interpolate(), calc_wind_speed_ec(), calculate_thermistor_temp(),
 # and parse_packet() copied from weewx-rtldavis
+# https://github.com/lheijst/weewx-rtldavis/blob/master/bin/user/rtldavis.py
 
 def interpolate(rx0, rx1,
                 ry0, ry1,
