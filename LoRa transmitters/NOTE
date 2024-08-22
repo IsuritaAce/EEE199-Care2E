@@ -1,0 +1,7 @@
+Ensure that the libraries have been installed. The required ones are:
+- LoRa (found in arduino library manager)
+- SimpleDHT (found in arduino library manager)
+- board_def.h (found in https://github.com/cubapp/LilyGO-TTGO-LoRa32-SenderReceiver/tree/master)
+
+Be wary that "Lora_433" and "Lora_915" use two different board_def.h,
+only one frequency can be set at a time, hence the separate header files.
