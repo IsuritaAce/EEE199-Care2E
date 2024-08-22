@@ -1,5 +1,5 @@
 # Development of Time-division Multiplexing Scanner for Weather Stations of Different Protocols Using Software Defined Radio
-A weather-monitoring system has been developed such that it receives data from multiple weather stations. It employs two software-defined radios (SDRs) acting as receivers, one that is dedicated for a specific weather station, while the other switches between two other weather stations that have different frequencies and protocols.
+A weather-monitoring system has been developed such that it receives data from multiple weather stations and sends said data into an online database. It employs two software-defined radios (SDRs) acting as receivers, one that is dedicated for a specific weather station, while the other switches between two other weather stations that have different frequencies and protocols.
 
 <img src="https://github.com/user-attachments/assets/933e7a29-1867-42ee-9f0f-0489bac95514" height="300">
 
@@ -37,8 +37,11 @@ This software is used for decoding LoRa signals. The installation process can be
 ### NOTES
 - Not all hardware dependencies are required, select only the ones that are needed (for this study, only ADALM-Pluto is needed for SDRangel) and reflect the changes in the final build command, accordingly.
 - SDRangel requires the `powerdown` attribute of Pluto to be `0` in order for it to be used as a receiver. This can be done by using the `iio_attr -u ip:192.168.2.1 -c ad9361-phy altvoltage0 powerdown 0` command.
-## Arduino IDE
-This is used for coding the LoRa transmitters.
+## Arduino IDE (not installed in Raspberry Pi)
+This is used for coding the LoRa transmitters. It can be installed by following [this guide](https://docs.arduino.cc/software/ide-v1/tutorials/Windows/).
+
+# Usage
+Assuming all software has been installed, the four python files should be downloaded. These should all be contained in a single directory. Then, specify the desired output file for each station in the `main_program.py` file. Afterwards, simply run the file via command terminal using `python main_program.py` or `python3 main_program.py`.
 
 # Recommendations
 - Centralize all stations into one radio via implementing a version of rtldavis that is compatible with ADALM-Pluto, i.e., create a custom program.
