@@ -11,7 +11,7 @@ Most of the system runs on python code. The particular functionality are the fol
 4. Uploading of data to the CARE database
 
 # Software Dependencies
-This system requires certain software/dependencies as described below:
+This system requires certain software/dependencies as detailed below. These software (aside from Arduino IDE) are mainly for Linux-based operating systems.
 
 ## SDR drivers
 In order for the Raspberry Pi to communicate with the SDRs, their respective drivers must be installed first. For **RTL-SDR**, installation procedure for Linux systems can be found [here](https://www.rtl-sdr.com/v4/), while for the **ADALM-Pluto**, its procedure can be found [here](https://wiki.analog.com/university/tools/pluto/drivers/linux) or simply access the `info.html` file when the Pluto is plugged in (the latter is more reliable).
@@ -30,6 +30,15 @@ In order for the Raspberry Pi to communicate with the SDRs, their respective dri
 ## Rtldavis
 This is the software used for decoding Davis Vantage Vue stations. Installation process is detailed by user guidocini in [their guide](https://www.instructables.com/Davis-Van-ISS-Weather-Station-With-Raspbe/). However, for the purposes of this study, only steps 2-4 in the guide are important.
 ## Rtl_433
-
+This software is used to decode data from WH31E and WH40, or the general sensors. The installation guide can be found in the [rtl-433 github page](https://github.com/merbanan/rtl_433/blob/master/docs/BUILDING.md) by user merbanan. SoapySDR and/or RTL-SDR must first be installed in order for the SDRs to use it.
 ## SDRangel
+This software is used for decoding LoRa signals. The installation process can be found in the [wiki page](https://github.com/f4exb/sdrangel/wiki/Compile-from-source-in-Linux) of the SDRangel github page made by user f4exb.
+
+### NOTES
+- Not all hardware dependencies are required, select only the ones that are needed (for this study, only ADALM-Pluto is needed for SDRangel) and reflect the changes in the final build command, accordingly.
+- SDRangel requires the `powerdown` attribute of Pluto to be `0` in order for it to be used as a receiver. This can be done by using the `iio_attr -u ip:192.168.2.1 -c ad9361-phy altvoltage0 powerdown 0` command.
 ## Arduino IDE
+This is used for coding the LoRa transmitters.
+
+# Recommendations
+- Centralize all stations into one radio via implementing a version of rtldavis that is compatible with ADALM-Pluto, i.e., create a custom program.
