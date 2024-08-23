@@ -1,0 +1,1001 @@
+{"time" : "2024-08-11 22:48:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 22:48:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 22:48:27", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 22:52:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 80, "data" : "786c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 22:52:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 80, "data" : "786c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 22:52:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 22:56:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 80, "data" : "c36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 22:56:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 80, "data" : "c36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 22:56:37", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:00:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:00:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:04:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:04:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:04:47", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:08:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:08:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:08:52", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:12:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:12:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:12:57", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:16:13", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:16:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:16:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:17:02", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:20:18", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:20:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:20:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:24:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:24:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:25:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:28:28", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:28:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:28:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:32:33", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:33:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:33:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:36:38", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:37:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:37:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:40:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:40:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:41:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:41:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:44:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:44:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:48:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:48:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:48:53", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:52:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 81, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:52:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 81, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:52:58", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:56:14", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-11 23:56:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:56:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-11 23:57:03", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:00:19", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:00:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:00:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:04:24", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:04:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:04:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 82, "data" : "e26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:08:29", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:08:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:08:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:12:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:12:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:16:39", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:16:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:16:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:20:44", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:20:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:20:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:24:49", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:24:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:24:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:28:05", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:28:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:28:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:32:10", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:32:59", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:33:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:33:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 84, "data" : "cd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:36:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:36:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:36:15", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:37:04", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:40:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:40:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:44:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:44:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:44:25", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:48:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:48:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:48:30", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 00:52:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:52:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:56:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:56:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 00:56:40", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:00:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:00:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:00:45", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:04:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:04:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:04:50", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:08:06", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:08:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:08:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:12:11", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:12:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:12:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:13:00", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:16:16", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:16:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:16:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:20:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:20:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:24:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:24:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:24:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 84, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:27:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:27:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:28:31", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:28:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:28:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:31:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:31:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:32:36", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:36:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 84, "data" : "d76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:36:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 84, "data" : "d76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:36:41", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:39:57", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:40:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:40:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:40:46", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:44:11", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:44:11", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:44:51", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:48:07", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:48:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:48:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:52:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:52:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:52:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:56:17", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 01:56:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 01:56:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 85, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:00:22", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:00:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:00:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:04:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:04:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:08:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:08:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:08:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:12:37", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:12:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:12:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:15:53", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:16:42", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:16:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:16:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:19:58", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:23:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:23:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:24:03", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:24:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:24:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:27:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:27:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:28:08", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:36:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:36:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:36:18", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:40:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:40:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:40:23", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:44:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:44:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:44:28", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:48:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:48:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:51:49", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:52:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:52:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:52:38", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:55:54", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 02:56:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 02:56:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:00:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:00:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:04:04", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:04:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:04:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:08:09", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:08:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:08:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:12:14", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:12:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:12:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:16:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:16:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:19:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:19:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:20:24", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:23:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:23:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 85, "data" : "7d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:24:29", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:27:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:27:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:28:34", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:31:50", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:31:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:31:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:32:39", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:35:55", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:36:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:36:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:40:00", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:40:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:40:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:44:05", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:44:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:44:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:48:10", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:48:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:48:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:52:15", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:52:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:52:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:56:20", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 03:56:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 03:56:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:03:41", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:04:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:04:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:04:30", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:08:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:08:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:08:35", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:11:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:11:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:12:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:12:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:15:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:15:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:15:56", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:19:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:19:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:20:01", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:23:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:23:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:24:06", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:27:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:27:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:31:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:31:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:32:16", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:36:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:36:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:36:21", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:40:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:40:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:40:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:43:42", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:44:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:44:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:47:47", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:48:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:48:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:51:52", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:52:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:52:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:55:57", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 04:56:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 86, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 04:56:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 86, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:00:02", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "8100000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:00:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:00:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:04:07", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:04:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:04:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:07:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:07:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:11:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:11:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:12:17", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:15:33", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:15:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:15:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:16:21", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:19:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 86, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:19:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 86, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:20:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:23:43", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:23:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:23:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:27:47", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:27:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:27:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:31:52", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:31:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:31:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:35:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:35:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 85, "data" : "c46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:40:02", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:40:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:44:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:44:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:44:07", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:48:11", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.400, "humidity" : 85, "data" : "f86c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:48:11", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.400, "humidity" : 85, "data" : "f86c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:48:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:52:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:52:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:52:17", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 05:56:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:56:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 05:59:38", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:00:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:00:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:00:27", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:03:43", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:04:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 86, "data" : "5f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:04:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 86, "data" : "5f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:04:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:08:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 86, "data" : "5f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:08:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 86, "data" : "5f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:11:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:11:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:11:53", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:12:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:12:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 85, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:15:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 86, "data" : "5f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:15:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.500, "humidity" : 86, "data" : "5f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:15:58", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:19:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 86, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:19:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.600, "humidity" : 86, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:20:03", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:23:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:23:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.700, "humidity" : 85, "data" : "596c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:27:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:27:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 85, "data" : "b26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:28:13", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:31:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:31:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:32:18", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:35:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:35:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:36:23", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:39:39", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:40:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:40:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:43:44", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:44:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 84, "data" : "d76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:44:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 84, "data" : "d76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:47:49", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:48:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:48:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:52:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:52:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 85, "data" : "1c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:55:59", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 06:56:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 84, "data" : "c26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 06:56:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 84, "data" : "c26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:00:04", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:00:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:00:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.000, "humidity" : 84, "data" : "4a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:04:09", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:04:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 84, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:07:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:07:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 83, "data" : "ee6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:08:14", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:11:30", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:11:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 83, "data" : "146c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:11:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 83, "data" : "146c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:15:35", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:15:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:15:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:16:24", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:19:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 82, "data" : "e36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:19:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 82, "data" : "e36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:23:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 82, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:23:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 82, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:23:45", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:27:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 83, "data" : "3e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:27:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 83, "data" : "3e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:27:50", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "2020000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:31:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 83, "data" : "286c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:31:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 83, "data" : "286c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:31:54", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 760.500, "data" : "0080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:35:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 83, "data" : "136c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:35:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 83, "data" : "136c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:40:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 83, "data" : "296c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:40:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 83, "data" : "296c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:40:05", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 761.900, "data" : "2040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:44:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 85, "data" : "786c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:44:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 85, "data" : "786c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:44:10", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.300, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:47:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.400, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:48:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:48:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:48:15", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.400, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:51:31", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.400, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:52:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 87, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:52:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.200, "humidity" : 87, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:55:36", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 07:56:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 87, "data" : "126c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:56:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 87, "data" : "126c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:59:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 87, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:59:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 87, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 07:59:41", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:00:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 87, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:00:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 87, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:03:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 87, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:03:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 87, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:07:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 88, "data" : "3c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:07:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.800, "humidity" : 88, "data" : "3c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:07:51", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:11:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 88, "data" : "e96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:11:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 27.900, "humidity" : 88, "data" : "e96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:11:56", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:15:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 88, "data" : "d86c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:15:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.100, "humidity" : 88, "data" : "d86c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:19:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 86, "data" : "926c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:19:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 86, "data" : "926c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:20:06", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:23:22", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:23:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 84, "data" : "866c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:23:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 84, "data" : "866c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:24:11", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:27:27", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:27:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:27:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 82, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:28:16", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:31:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:35:37", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:35:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 82, "data" : "586c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:35:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 82, "data" : "586c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:39:42", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:40:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 81, "data" : "d36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:40:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 81, "data" : "d36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:44:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 80, "data" : "446c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:44:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 80, "data" : "446c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:51:57", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:52:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 85, "data" : "a66c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:52:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 85, "data" : "a66c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:55:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 84, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:55:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 84, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:56:02", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:56:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 84, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:56:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 84, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:59:18", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 08:59:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 86, "data" : "2a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 08:59:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 86, "data" : "2a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:03:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 86, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:03:23", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:03:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 86, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:04:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:07:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 86, "data" : "926c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:07:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 86, "data" : "926c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:07:28", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:11:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:11:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.300, "humidity" : 85, "data" : "426c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:15:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 86, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:15:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 86, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:15:38", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4100000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:19:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 86, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:19:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.400, "humidity" : 86, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:19:43", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:23:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 84, "data" : "5a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:23:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 84, "data" : "5a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:23:48", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:27:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 84, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:27:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 84, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:27:53", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:31:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 83, "data" : "3e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:31:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 83, "data" : "3e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:35:14", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:35:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 81, "data" : "366c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:35:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 81, "data" : "366c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:36:03", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:39:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 79, "data" : "606c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:39:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 79, "data" : "606c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:40:08", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:43:24", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:44:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 79, "data" : "606c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:44:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 79, "data" : "606c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:47:29", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:48:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 79, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:48:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 79, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:51:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 80, "data" : "8c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:51:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 80, "data" : "8c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:51:34", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:55:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 80, "data" : "8c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:55:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 80, "data" : "8c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:55:39", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 09:59:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 82, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 09:59:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 82, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:03:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 80, "data" : "a16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:03:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 80, "data" : "a16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:03:49", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:07:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 79, "data" : "b96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:07:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 79, "data" : "b96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:07:54", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:11:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 78, "data" : "536c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:11:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 78, "data" : "536c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:11:59", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:15:15", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:15:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 77, "data" : "316c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:15:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 77, "data" : "316c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:19:20", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:19:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 77, "data" : "066c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:19:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 77, "data" : "066c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:23:25", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:23:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 76, "data" : "2f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:23:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 76, "data" : "2f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:27:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 75, "data" : "5c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:27:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 75, "data" : "5c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:31:35", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:31:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.500, "humidity" : 75, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:35:40", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:35:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 74, "data" : "f56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:35:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 74, "data" : "f56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:39:45", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:39:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 75, "data" : "3a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:39:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 75, "data" : "3a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:43:01", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:43:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:43:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:44:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:44:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:47:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:47:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:47:06", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:47:55", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:51:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:51:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:51:10", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:52:00", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:55:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:55:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:55:16", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 10:59:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:59:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 73, "data" : "9a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 10:59:21", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:03:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 72, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:03:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 72, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:03:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:07:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 70, "data" : "936c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:07:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 70, "data" : "936c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:11:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.200, "humidity" : 72, "data" : "5a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:11:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.200, "humidity" : 72, "data" : "5a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:11:36", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:15:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 72, "data" : "016c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:15:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 72, "data" : "016c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:15:41", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:19:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.200, "humidity" : 73, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:19:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.200, "humidity" : 73, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:19:46", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:23:02", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:23:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 74, "data" : "926c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:23:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 74, "data" : "926c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:23:51", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:27:07", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:27:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 72, "data" : "e76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:27:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 72, "data" : "e76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:31:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:31:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.900, "humidity" : 71, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:31:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.900, "humidity" : 71, "data" : "576c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:35:17", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:35:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 70, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:35:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 70, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:38:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 71, "data" : "1b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:38:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 71, "data" : "1b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:43:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 69, "data" : "906c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:43:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 69, "data" : "906c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:43:27", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "8100000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:47:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.900, "humidity" : 70, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:47:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.900, "humidity" : 70, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:47:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:51:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.400, "humidity" : 67, "data" : "9c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:51:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.400, "humidity" : 67, "data" : "9c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:51:37", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:54:53", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:55:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.900, "humidity" : 67, "data" : "616c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:55:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.900, "humidity" : 67, "data" : "616c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:58:58", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 11:59:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.800, "humidity" : 64, "data" : "ba6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:59:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.800, "humidity" : 64, "data" : "ba6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 11:59:47", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:03:03", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:03:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.400, "humidity" : 66, "data" : "8a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:03:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.400, "humidity" : 66, "data" : "8a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:03:52", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:07:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 69, "data" : "ea6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:07:24", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 69, "data" : "ea6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:11:13", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:11:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 70, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:11:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 70, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:15:18", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:15:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 70, "data" : "1e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:15:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 70, "data" : "1e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:19:23", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:19:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 70, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:19:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 70, "data" : "f26c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:23:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.500, "humidity" : 69, "data" : "716c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:23:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.500, "humidity" : 69, "data" : "716c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:30:49", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:31:38", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:31:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.900, "humidity" : 67, "data" : "616c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:31:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.900, "humidity" : 67, "data" : "616c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:34:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.300, "humidity" : 65, "data" : "026c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:34:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.300, "humidity" : 65, "data" : "026c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:35:43", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:38:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.400, "humidity" : 65, "data" : "186c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:38:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.400, "humidity" : 65, "data" : "186c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:38:59", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:39:48", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:42:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.600, "humidity" : 65, "data" : "776c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:42:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.600, "humidity" : 65, "data" : "776c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:43:04", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:47:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.500, "humidity" : 66, "data" : "7f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:47:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.500, "humidity" : 66, "data" : "7f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:47:09", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:51:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.900, "humidity" : 63, "data" : "2e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:51:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.900, "humidity" : 63, "data" : "2e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:51:14", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:55:11", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.300, "humidity" : 63, "data" : "b56c000000", "mic" : "CRC"}
+{"time" : "2024-08-12 12:55:11", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.300, "humidity" : 63, "data" : "b56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:59:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.400, "humidity" : 62, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:59:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.400, "humidity" : 62, "data" : "1d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 12:59:24", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:03:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.500, "humidity" : 61, "data" : "b66c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:03:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.500, "humidity" : 61, "data" : "b66c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:03:29", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:06:45", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:07:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.800, "humidity" : 60, "data" : "7e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:07:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.800, "humidity" : 60, "data" : "7e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:10:50", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:11:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.600, "humidity" : 61, "data" : "946c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:11:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.600, "humidity" : 61, "data" : "946c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:11:39", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:14:55", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:15:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.600, "humidity" : 61, "data" : "946c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:15:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.600, "humidity" : 61, "data" : "946c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:15:44", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:18:59", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:19:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.700, "humidity" : 62, "data" : "336c000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:19:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.700, "humidity" : 62, "data" : "336c000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:23:05", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4100000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:23:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.300, "humidity" : 63, "data" : "b56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:23:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.300, "humidity" : 63, "data" : "b56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:26:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.300, "humidity" : 62, "data" : "836c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:26:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.300, "humidity" : 62, "data" : "836c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:27:10", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:27:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.400, "humidity" : 61, "data" : "c96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:27:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.400, "humidity" : 61, "data" : "c96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:30:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.600, "humidity" : 61, "data" : "946c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:30:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.600, "humidity" : 61, "data" : "946c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:31:15", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:34:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.900, "humidity" : 62, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:34:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.900, "humidity" : 62, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:38:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 35.000, "humidity" : 62, "data" : "c96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:38:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 35.000, "humidity" : 62, "data" : "c96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:39:25", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:42:41", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:42:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.400, "humidity" : 63, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:42:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 34.400, "humidity" : 63, "data" : "2d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:43:30", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:47:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.900, "humidity" : 64, "data" : "5d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:47:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.900, "humidity" : 64, "data" : "5d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:47:35", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:50:51", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:51:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.600, "humidity" : 64, "data" : "476c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:51:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.600, "humidity" : 64, "data" : "476c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:54:56", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:55:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.300, "humidity" : 64, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:55:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.300, "humidity" : 64, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:59:01", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 13:59:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.100, "humidity" : 65, "data" : "ca6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 13:59:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.100, "humidity" : 65, "data" : "ca6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:03:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.600, "humidity" : 64, "data" : "156c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:07:11", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:07:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 66, "data" : "1f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:07:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 66, "data" : "1f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:11:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 66, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:11:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 66, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:15:21", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:15:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 67, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:15:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 67, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:18:37", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4040000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:19:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:19:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 67, "data" : "466c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:19:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 67, "data" : "466c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:22:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 67, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:22:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 67, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:22:42", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:23:30", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:26:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.200, "humidity" : 65, "data" : "6d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:26:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.200, "humidity" : 65, "data" : "6d6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:26:47", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:27:36", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:30:52", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:34:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.700, "humidity" : 63, "data" : "656c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:34:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.700, "humidity" : 63, "data" : "656c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:34:56", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:38:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.300, "humidity" : 64, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:38:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 33.300, "humidity" : 64, "data" : "326c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:39:02", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:42:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.900, "humidity" : 65, "data" : "816c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:42:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.900, "humidity" : 65, "data" : "816c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:43:06", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:47:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.700, "humidity" : 68, "data" : "0a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:47:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.700, "humidity" : 68, "data" : "0a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:47:11", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:51:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.700, "humidity" : 67, "data" : "726c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:51:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.700, "humidity" : 67, "data" : "726c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:54:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:55:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.800, "humidity" : 67, "data" : "0c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:55:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.800, "humidity" : 67, "data" : "0c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:55:21", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 14:59:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.700, "humidity" : 65, "data" : "526c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:59:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.700, "humidity" : 65, "data" : "526c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 14:59:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:03:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.600, "humidity" : 66, "data" : "b56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:03:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.600, "humidity" : 66, "data" : "b56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:06:47", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:07:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.500, "humidity" : 66, "data" : "d76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:07:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.500, "humidity" : 66, "data" : "d76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:10:52", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:11:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.500, "humidity" : 67, "data" : "c96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:11:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.500, "humidity" : 67, "data" : "c96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:14:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.400, "humidity" : 67, "data" : "9c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:14:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.400, "humidity" : 67, "data" : "9c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:14:57", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:15:28", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 67, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:15:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 67, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:18:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 67, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:18:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 67, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:22:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 68, "data" : "ce6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:22:36", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 68, "data" : "ce6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:23:07", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:26:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 66, "data" : "1f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:26:40", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.300, "humidity" : 66, "data" : "1f6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:27:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:30:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 67, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:30:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.200, "humidity" : 67, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:31:17", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:34:33", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:34:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 67, "data" : "466c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:34:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.100, "humidity" : 67, "data" : "466c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:35:22", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:38:38", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:38:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.000, "humidity" : 68, "data" : "a56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:38:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.000, "humidity" : 68, "data" : "a56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:42:43", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:42:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.000, "humidity" : 69, "data" : "756c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:42:56", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 32.000, "humidity" : 69, "data" : "756c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:46:48", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:47:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 69, "data" : "766c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:47:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 69, "data" : "766c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:50:53", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:51:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.900, "humidity" : 69, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:51:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.900, "humidity" : 69, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:54:58", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:55:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.900, "humidity" : 69, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:55:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.900, "humidity" : 69, "data" : "eb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:59:03", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 15:59:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 68, "data" : "a46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 15:59:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 68, "data" : "a46c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:03:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 69, "data" : "766c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:03:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 69, "data" : "766c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:06:24", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:07:13", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:07:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 68, "data" : "806c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:07:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 68, "data" : "806c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:10:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 68, "data" : "cb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:10:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 68, "data" : "cb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:10:29", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:11:18", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:14:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 68, "data" : "806c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:14:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 68, "data" : "806c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:18:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 69, "data" : "766c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:18:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.800, "humidity" : 69, "data" : "766c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:18:39", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:22:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 68, "data" : "806c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:22:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.700, "humidity" : 68, "data" : "806c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:22:44", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:26:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 68, "data" : "cb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:26:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 68, "data" : "cb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:26:49", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:30:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 68, "data" : "cb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:30:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.600, "humidity" : 68, "data" : "cb6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:34:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.500, "humidity" : 69, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:34:47", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.500, "humidity" : 69, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:34:59", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:38:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.500, "humidity" : 69, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:38:51", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.500, "humidity" : 69, "data" : "646c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:39:04", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:42:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.400, "humidity" : 69, "data" : "ef6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:42:55", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.400, "humidity" : 69, "data" : "ef6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:43:09", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:46:25", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:46:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.400, "humidity" : 70, "data" : "c36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:46:59", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.400, "humidity" : 70, "data" : "c36c000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:50:30", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 16:51:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.300, "humidity" : 70, "data" : "dd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:51:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.300, "humidity" : 70, "data" : "dd6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:55:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.200, "humidity" : 69, "data" : "366c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 16:55:07", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.200, "humidity" : 69, "data" : "366c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:06:50", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:07:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.000, "humidity" : 70, "data" : "536c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:07:19", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 31.000, "humidity" : 70, "data" : "536c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:11:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.900, "humidity" : 70, "data" : "256c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:11:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.900, "humidity" : 70, "data" : "256c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:11:44", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:15:00", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:15:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.800, "humidity" : 70, "data" : "186c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:15:27", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.800, "humidity" : 70, "data" : "186c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:19:05", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:19:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:19:31", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:23:10", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:23:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:23:35", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:27:15", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:27:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:27:39", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.700, "humidity" : 71, "data" : "8b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:31:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 72, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:31:43", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 72, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:34:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 72, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:34:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.600, "humidity" : 72, "data" : "d56c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:35:25", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:38:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.500, "humidity" : 72, "data" : "bf6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:38:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.500, "humidity" : 72, "data" : "bf6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:39:30", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:42:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 72, "data" : "8a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:42:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 72, "data" : "8a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:43:35", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:46:51", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:46:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 72, "data" : "8a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:46:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.400, "humidity" : 72, "data" : "8a6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:50:56", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:51:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 72, "data" : "e76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:51:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 72, "data" : "e76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:55:01", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 17:55:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 72, "data" : "e76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:55:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 72, "data" : "e76c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:59:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 73, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 17:59:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.300, "humidity" : 73, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:03:11", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:03:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.200, "humidity" : 73, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:03:14", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.200, "humidity" : 73, "data" : "2c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:07:16", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:07:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 72, "data" : "2e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:07:18", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 72, "data" : "2e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:11:21", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:11:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 73, "data" : "3e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:11:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.100, "humidity" : 73, "data" : "3e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:15:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 73, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:15:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 73, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:15:26", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:18:42", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:19:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 73, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:19:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 30.000, "humidity" : 73, "data" : "f16c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:19:31", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:22:47", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:23:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.900, "humidity" : 74, "data" : "466c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:23:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.900, "humidity" : 74, "data" : "466c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:23:36", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:26:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 74, "data" : "f96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:26:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 74, "data" : "f96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:26:51", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:27:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 75, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:27:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 75, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:30:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 75, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:30:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 75, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:30:57", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:34:44", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 75, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:34:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 75, "data" : "096c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:35:02", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:38:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 76, "data" : "996c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:38:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 76, "data" : "996c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:39:07", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:42:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 76, "data" : "996c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:42:53", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.800, "humidity" : 76, "data" : "996c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:43:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:46:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 76, "data" : "736c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:46:57", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 76, "data" : "736c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:50:33", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:51:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 76, "data" : "736c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:51:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 76, "data" : "736c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:51:22", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:54:38", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:55:03", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 76, "data" : "736c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:55:05", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.700, "humidity" : 76, "data" : "736c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:55:27", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 18:59:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:59:09", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 18:59:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:02:48", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:03:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:03:13", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:06:53", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:07:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 77, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:07:17", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 77, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:10:58", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:11:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:11:21", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:15:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:15:25", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:19:08", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:19:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:19:29", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.600, "humidity" : 76, "data" : "be6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:22:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.500, "humidity" : 77, "data" : "266c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:22:32", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.500, "humidity" : 77, "data" : "266c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:23:13", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:28:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.500, "humidity" : 77, "data" : "266c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:28:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.500, "humidity" : 77, "data" : "266c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:32:41", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 76, "data" : "e96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:32:42", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 76, "data" : "e96c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:33:01", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:36:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 77, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:36:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 77, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:37:06", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:40:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 77, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:40:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.400, "humidity" : 77, "data" : "196c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:41:11", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:44:27", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:44:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:44:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:45:16", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:48:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:48:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:48:58", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:52:37", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "8100000000", "mic" : "CRC"}
+{"time" : "2024-08-12 19:53:01", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:53:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:57:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 19:57:06", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:01:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:01:10", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:13:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:13:22", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:13:51", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 20:14:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:14:23", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:17:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:17:26", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 77, "data" : "ed6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:17:56", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 20:21:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:21:30", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:25:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:25:34", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.300, "humidity" : 78, "data" : "9b6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:29:22", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 20:29:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 78, "data" : "8e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:29:38", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 78, "data" : "8e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:30:11", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 20:34:16", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 20:37:32", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 20:37:45", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 78, "data" : "8e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:37:46", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 78, "data" : "8e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:41:37", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 20:41:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 78, "data" : "8e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 20:41:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.200, "humidity" : 78, "data" : "8e6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:40:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 79, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:40:48", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.100, "humidity" : 79, "data" : "056c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:41:14", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 21:44:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 80, "data" : "8c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:44:52", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 29.000, "humidity" : 80, "data" : "8c6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:45:19", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 21:52:40", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 21:53:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 80, "data" : "786c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:53:00", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.900, "humidity" : 80, "data" : "786c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:53:29", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 21:56:45", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 21:57:02", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 80, "data" : "c36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 21:57:04", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 80, "data" : "c36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:01:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:01:08", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.800, "humidity" : 81, "data" : "b36c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:04:55", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 22:05:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:05:12", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:09:00", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 22:09:15", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:09:16", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:13:05", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 22:13:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:13:20", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.700, "humidity" : 81, "data" : "856c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:26:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 81, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:26:33", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 81, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:30:14", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 22:30:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 81, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:30:37", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.600, "humidity" : 81, "data" : "b06c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:43:18", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 22:43:49", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 81, "data" : "ca6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:43:50", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 81, "data" : "ca6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:44:07", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
+{"time" : "2024-08-12 22:47:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 81, "data" : "ca6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:47:54", "model" : "AmbientWeather-WH31E", "id" : 102, "channel" : 1, "battery_ok" : 1, "temperature_C" : 28.500, "humidity" : 81, "data" : "ca6c000200", "mic" : "CRC"}
+{"time" : "2024-08-12 22:48:12", "model" : "EcoWitt-WH40", "id" : 21881, "battery_V" : 1.400, "battery_ok" : 0.000, "rain_mm" : 763.500, "data" : "4080000000", "mic" : "CRC"}
