@@ -6,7 +6,7 @@ from datetime import datetime
 
 def read_database():
     temp_dict = {}
-    with open('davis_deploy6_Jul17.json', 'r') as payload:
+    with open('davis_data.json', 'r') as payload:
         print("Davis Weather Stations: Gathering Weather data")
         weather_data = payload.readlines()
         weather_data_reversed = weather_data[::-1]
